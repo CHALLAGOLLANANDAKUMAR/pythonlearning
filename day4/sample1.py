@@ -10,7 +10,6 @@ student = True
 hosteller = False
 fees = 50000
 
-# Print values
 print(name)
 print(age)
 print(marks)
